@@ -1,4 +1,4 @@
-PROGRAM ej3_4
+PROGRAM hola_nacho
 
 IMPLICIT NONE
 REAL::numero
@@ -15,4 +15,4 @@ ELSE
 END IF
 
 
-END PROGRAM ej3_4
+END PROGRAM hola_nacho
